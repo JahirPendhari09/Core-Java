@@ -1,4 +1,4 @@
-// Array Square Print in Ascending Order 
+ package Array;
 import java.util.*;
 public class arraySquare {
     public static void printSquareSort(int arr[]){
