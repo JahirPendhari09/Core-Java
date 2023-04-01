@@ -1,4 +1,4 @@
-package BackTracking;
+package Backtracking;
 
 public class Sudoku {
    
