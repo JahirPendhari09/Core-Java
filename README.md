@@ -1,7 +1,6 @@
 # Java
 
-Topics 
-     - Arrays
-     - String
-     -Backtracking
-     
+-Arrays
+-String
+-ArrayList
+-Backtracking
