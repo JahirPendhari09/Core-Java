@@ -7,4 +7,4 @@
     - ArrayList
     - backtracking
     - Patterns
-    - 2D Array
+    - Sorting 
