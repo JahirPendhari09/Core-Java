@@ -8,3 +8,5 @@
     - backtracking
     - Patterns
     - Sorting 
+    - LinkedList
+    - Object Oriented Programming
