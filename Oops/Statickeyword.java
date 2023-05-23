@@ -1,5 +1,4 @@
 package Oops;
-
 public class Statickeyword {
     public static void main (String args []){
         StudentS s1 = new StudentS();

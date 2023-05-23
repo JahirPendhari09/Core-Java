@@ -28,8 +28,6 @@ public class Basic {
         // that statement password not visible and Error can Occuipy
         myAcc.setpassword("abcd");
         System.out.println(myAcc.getpassword());
-        
-
     }
     
 }
@@ -63,12 +61,11 @@ class BankAccount{
         this.password = pw;
         // password = pw;       both are valid
     }
-    public String getpassword(){ 
+    public String getpassword()
+    { 
         // return type must important while getpassword otherwise syntax error occuipies
         
        // return this.password; both are valid 
         return password;
     }
-
-
 }
