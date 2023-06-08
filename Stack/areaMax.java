@@ -1,4 +1,4 @@
-package stackDataType;
+package Stack;
 import java.util.*;
 
 public class areaMax {

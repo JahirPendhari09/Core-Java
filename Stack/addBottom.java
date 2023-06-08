@@ -1,4 +1,4 @@
-package stackDataType;
+package Stack;
 import java.util.*;
 
 public class addBottom {
@@ -35,3 +35,7 @@ public class addBottom {
         }
     }
 }
+
+
+// Add Bottom
+
